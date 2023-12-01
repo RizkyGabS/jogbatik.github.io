@@ -1,6 +1,6 @@
 # jogbatik.shop
 
-This project is one of the college assignments in the implementation of digital marketing knowledge on a landing page. You can access the landing page on jogbatik.shop.
+This project is one of the college assignments in the implementation of digital marketing knowledge on a landing page. You can access the landing page on [Jog Batik](http://www.jogbatik.shop)
 
 # Anatomy of the landing page
 
